@@ -1,0 +1,5 @@
+numpy
+scipy
+sounddevice
+music21
+mido[ports-rtmidi]
