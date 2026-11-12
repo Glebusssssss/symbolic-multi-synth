@@ -1,4 +1,4 @@
-import React, { useState, useRef } from 'react';
+import { useState, useRef } from 'react';
 import { Play, Square, Download, Sliders, Music } from 'lucide-react';
 
 type Technique = 'subtractive' | 'fm' | 'additive';
